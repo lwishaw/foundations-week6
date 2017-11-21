@@ -1,0 +1,17 @@
+div {
+  width:5vw;
+  height:10vh;
+  background-color: red;
+  -webkit-transition:width 2s;  /*Safari/ 
+  transition: width 4s;
+}
+div:hover {
+  width:10vw;
+  height: 20vh;
+}
+
+/*
+div {
+  width:5vw;
+  height:10vh;
+}*/
